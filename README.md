@@ -6,3 +6,18 @@ Specifica dei requisti:
 3. collegare l'utente all'insegnate
 4. pianificare gli appuntamenti tra utente e insegnante
 5. rispettare le norme gdpr
+
+
+[Professore]-(Registrarsi)
+[Cliente]-(Registrarsi)
+(Registrarsi)<(Scegli lingua da imparare)
+(Registrarsi)>(Lingue conosciute)
+[Professore]-(Log in)
+[Cliente]-(Log in)
+(Log in)<(Prenota classe)
+(Log in)<(Crea classe)
+(Prenota classe)<(Guarda classi prenotate)
+(Prenota classe)<(Disdici classe)
+(Prenota classe)>(Pagamento)
+
+http://yuml.me/preview/5e2daba5
