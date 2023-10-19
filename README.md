@@ -9,15 +9,16 @@ Specifica dei requisti:
 
 
 [Professore]-(Registrarsi)
-[Cliente]-(Registrarsi)
+[Studente]-(Registrarsi)
 (Registrarsi)<(Scegli lingua da imparare)
 (Registrarsi)>(Lingue conosciute)
 [Professore]-(Log in)
-[Cliente]-(Log in)
-(Log in)<(Prenota classe)
+[Studente]-(Log in)
+(Log in)<(Scegli classe)
 (Log in)<(Crea classe)
-(Prenota classe)<(Guarda classi prenotate)
+(Prenota classe)<(Guarda classi prenotate) 
 (Prenota classe)<(Disdici classe)
-(Prenota classe)>(Pagamento)
-
-http://yuml.me/preview/5e2daba5
+(Scegli classe)>(Pagamento)
+(Pagamento)<(Successo)
+(Pagamento)<(Non successo)
+(Successo)>(Prenota classe)
