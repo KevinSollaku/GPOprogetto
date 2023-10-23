@@ -1,11 +1,15 @@
-In tutto il mondo si parlando diverse lingue, impara da chi le sa parlare meglio di te.
+L'apprendimento delle lingue straniere è spesso inefficace e costoso. Le lezioni tradizionali in aula sono scomode e l'accesso a insegnanti madrelingua è limitato. 
+Inoltre, la maggior parte delle piattaforme di apprendimento online sono inefficaci e mirate solo al guadagno.
 
 Specifica dei requisti:
-1. interfaccia per l'utente deve poter registrarsi e fare il login
-2. il sito deve insegnare agli utenti la lingua selezionata
-3. collegare l'utente all'insegnate
-4. pianificare gli appuntamenti tra utente e insegnante
-5. rispettare le norme gdpr
+1. Interfaccia per l'utente deve poter registrarsi e fare il login (funzionale)
+2. Il sito deve insegnare agli utenti la lingua selezionata (funzionale)
+3. Collegare l'utente all'insegnate (funzionale)
+4. Pianificare le lezioni tra utente e insegnante (funzionale)
+5. Sistema di pagamento (funzionale)
+6. Supportare lingue diverse (non funzionale)
+7. Certificazione insegnante (di dominio)
+8. Rispettare le norme gdpr (di dominio)
 
 
 [Professore]-(Registrarsi)
