@@ -11,7 +11,7 @@ Specifica dei requisti:
 7. Certificazione insegnante (di dominio)
 8. Rispettare le norme gdpr (di dominio)
 
-![Diagramma UML]()
+![Diagramma UML](https://yuml.me/diagram/scruffy/usecase/[Professore]-(Registrarsi),%20[Studente]-(Registrarsi),%20(Registrarsi)%3C(Scegli%20lingua%20da%20imparare),%20(Registrarsi)%3E(Lingue%20conosciute),%20[Professore]-(Log%20in),%20[Studente]-(Log%20in),%20(Log%20in)%3C(Scegli%20classe),%20(Log%20in)%3C(Crea%20classe),%20(Log%20in)%3C(Guarda%20classi%20prenotate),%20(Guarda%20classi%20prenotate)%3C(Disdici%20classe),%20(Prenota%20classe)%3C(Disdici%20classe),%20(Scegli%20classe)%3E(Pagamento),%20(Pagamento)%3C(Successo),%20(Pagamento)%3C(Non%20successo),%20(Successo)%3E(Prenota%20classe))
 
 
 [Professore]-(Registrarsi)
