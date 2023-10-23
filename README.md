@@ -11,7 +11,7 @@ Specifica dei requisti:
 7. Certificazione insegnante (di dominio)
 8. Rispettare le norme gdpr (di dominio)
 
-![Cute Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Stockholm_-_Mus%C3%A9e_Nobel_%285%29.JPG/800px-Stockholm_-_Mus%C3%A9e_Nobel_%285%29.JPG)
+![Diagramma UML]()
 
 
 [Professore]-(Registrarsi)
