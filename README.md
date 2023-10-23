@@ -10,7 +10,9 @@ Specifica dei requisti:
 6. Supportare lingue diverse (non funzionale)
 7. Certificazione insegnante (di dominio)
 8. Rispettare le norme gdpr (di dominio)
-   
+
+![Cute Cat](https://example.com/cat.jpg)
+
 
 [Professore]-(Registrarsi)
 [Studente]-(Registrarsi)
