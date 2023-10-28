@@ -11,8 +11,8 @@ Imparare le lingue straniere è spesso difficile e costoso. Le lezioni tradizion
 Inoltre, la maggior parte delle piattaforme di apprendimento online sono inefficaci e mirate solo al guadagno.
 
 ## Requisiti funzionali:
-1. Interfaccia per l'utente deve poter registrarsi e fare il login
-2. L'utente deve scegliere se essere Studente o Insegnante
+1. Interfaccia per l'utente deve poter registrarsi e fare il login nella quale:
+   - gfdsfgds
 3. Permettere allo Studente di scegliere una classe della lingua da voler imparare
 4. Permettere all'Insegnante di creare una classe
 5. lo studente una volta scelta la classe può prenotare un posto
