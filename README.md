@@ -20,11 +20,11 @@ Inoltre, la maggior parte delle piattaforme di apprendimento online sono ineffic
 6. Sistema di pagamento (funzionale)
 
 ## Requisiti non funzionali
-8. Supportare lingue diverse
+1. Supportare lingue diverse
 
 ## Requisiti di dominio
-10. Certificazione insegnante 
-11. Rispettare le norme gdpr
+1. Certificazione insegnante 
+2. Rispettare le norme gdpr
 
 ### Caso d'uso Professore
 ![Diagramma professore](https://yuml.me/diagram/scruffy/usecase/[Professore]%5E[Utente],%20[Utente]-(Registrarsi),%20[Utente]-(Log%20in),%20(Registrarsi)%3E(Lingue%20conosciute),%20(Lingue%20conosciute)%3E(Verifica%20delle%20conoscienze),%20[Amministratore]-(Verifica%20delle%20conoscienze),%20(Log%20in)%3C(Crea%20classe),%20(Log%20in)%3C(Guarda%20classi%20create),%20(Guarda%20classi%20create)%3C(Disdici%20classe),(Guarda%20classi%20create)%3C(Visualizza%20dettagli%20classe))
